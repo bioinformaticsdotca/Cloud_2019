@@ -1,40 +1,32 @@
 ---
 layout: workshop_main_2day
-permalink: /intror_2019
-title: IntroR
+permalink: /Cloud_2019
+title: Cloud 2019
 header1: Workshop Pages for Students
-header2: Introduction to R 2019
-yearName: Introduction to R 2019
-image: /site_images/CBW_introtoR-icon.jpg
-keywords: Data handling, using R syntax, scientific computational work
-description: Course introduces essential ideas and tools of R, and covers statistical tests in R.
-instructors: Boris Steipe, Lauren Erdman
+header2: Using Clouds for Big Cancer Data Analysis 2019
+image: /site_images/CBW_bigdata_icon.jpg
+instructors: Denis Yuen, Jared Baker
 length: 2 days
 status: Completed
 audience: Graduates, postgraduates, Principle Investigators, Researchers
 location: Toronto, Ontario, Canada
-startDate: 2019-05-13
-endDate: 2019-05-14
+startDate: 2019-11-02
+endDate: 2019-11-03
 ---
 
 # Welcome <a id="welcome"></a>
 
-[Welcome](https://drive.google.com/a/bioinformatics.ca/file/d/16QK5ddMDEK3h8z5Qhp5X1sNJz64lBN9M/view?usp=sharing) to Introduction to R.  
+Welcome to the Using Clouds for Big Cancer Data Analysis workshop.  
 
-The course schedule can be found [here](https://bioinformaticsdotca.github.io/intror_2019_schedule). 
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/cloud_2019_schedule). 
 
-Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1PIx05sCP2JD03m-viikeElaiLmPLE3Xw/view?usp=sharing)
+Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1D142BGzw6PzKrV07G0Hhuz1DH4FZDnTB/view?usp=sharing)
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/intror_2019_prework).  
+Pre-work including programs to install can be found [here](https://bioinformaticsdotca.github.io/Cloud_2019_prework).  
 
 ***
-
-# Class Photo
-
-<img src="https://github.com/bioinformaticsdotca/IntroR_2019/blob/master/IntroR_ClassPhoto.jpg?raw=true" alt="Class Photo" width="750" />
-
 
 # Day 1 <a id="day1"></a>
 
@@ -42,7 +34,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 ## Welcome
 
-*<font color="#827e9c">Francis Ouellette</font>*
+*<font color="#827e9c">Michelle Brazas</font>*
 
 ## Lecture
 
@@ -72,19 +64,6 @@ Files for Integrated Assignment:
 [R data](/IntroR_2019/MYC-let-7-ggplot-data.rds)
 
 [R script with answers](https://raw.githubusercontent.com/bioinformaticsdotca/IntroR_2019/master/Intro%20R%20Integrated%20Assignment%20ggplot2%20--%20master.R)  
-
-***
-
-# Day 2 <a id="day2"></a>
-
-## Lecture
-
-*<font color="#827e9c">Boris Steipe</font>* 
-
-The most current version of this introductory tutorial *RStudio project* lives at <https://github.com/hyginn/R-Intro>. You will be able to access it there for the forseeable future.  
-
-We will be working with `myDataIntegration.R` and `myNumericData.R`.  
-
 
 ***
 # Survey
