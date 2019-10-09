@@ -36,7 +36,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 *<font color="#827e9c">Michelle Brazas</font>*
 
-## Lecture and Hands-on
+## Lecture and Hands-on Tutorial
 
 *<font color="#827e9c">Denis Yuen and Jared Baker</font>* 
 
