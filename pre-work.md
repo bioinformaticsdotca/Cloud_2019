@@ -4,7 +4,7 @@ permalink: /Cloud_2019_prework
 title: Cloud PreWork
 header1: Workshop Pages for Students
 header2: Using Clouds for Big Cancer Data Analysis 2019 Pre-Work
-image: /site_images/CBW_bicg-icon.jpg
+image: /site_images/CBW_bigdata_icon.jpg
 home: https://bioinformaticsdotca.github.io/Cloud_2019
 description: Cloud 2019 PreWork
 author: Michelle Brazas
