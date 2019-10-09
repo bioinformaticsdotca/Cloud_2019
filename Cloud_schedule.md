@@ -4,7 +4,7 @@ permalink: /cloud_2019_schedule
 title: Cloud 2019
 header1: Workshop Pages for Students
 header2: Using Clouds for Big Cancer Data Analysis 2019 
-image: /site_images/CBW_bicg.jpg
+image: /site_images/CBW_bigdata_icon.jpg
 home: https://bioinformaticsdotca.github.io/Cloud_2019
 description: Cloud 2019 Schedule
 author: Michelle Brazas
