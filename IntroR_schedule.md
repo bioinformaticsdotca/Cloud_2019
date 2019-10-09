@@ -14,7 +14,7 @@ modified: October 9, 2019
 | | **Day 1** |     
 | :---: | :---: | 
 | | **Saturday, November 2** | 
-| 8:00 | <font color="green">*Registration and Breakfast*</font> |  
+| 8:00 | <font color="green">*Registration and Coffee*</font> |  
 | 8:30 | <font color="purple">Welcome (Michelle Brazas)</font> |     
 | 8:30 | <font color="purple">Introduction to Cloud Computing & Containers: PCAWG Example (Denis Yuen)</font> | 
 | 9:00 | <font color="purple">Part 1: Hands-on setup of Collaboratory instance (Jared Baker)</font> | 
