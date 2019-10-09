@@ -1,5 +1,5 @@
 ---
-layout: workshop_main_2day
+layout: workshop_main_1day
 permalink: /Cloud_2019
 title: Cloud 2019
 header1: Workshop Pages for Students
