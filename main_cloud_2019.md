@@ -44,6 +44,8 @@ Pre-work including programs to install can be found [here](https://bioinformatic
   
 [Hands-on Tutorial]()  
 
+[Cloud Setup Steps](https://drive.google.com/a/bioinformatics.ca/file/d/1hiYxAjRXtA1-X4EvtzWTmUnNRst77Tka/view?usp=sharing)
+
 ***
 # Survey
 
