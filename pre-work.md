@@ -27,7 +27,7 @@ It is in your best interest to complete these before the workshop.
 
 1. A robust internet browser such as Firefox or Chrome (Internet Explorer is not recommended because of Java issues).
 
-2. These [steps](https://drive.google.com/a/bioinformatics.ca/file/d/1KPyZWIupqpUBjC_ijkw4OkbZKj4-0V2j/view?usp=sharing) are required for users of Windows and Macintosh laptops prior to connecting to the Cancer Genome Collaboratory cloud instances.
+2. These [steps](https://drive.google.com/a/bioinformatics.ca/file/d/1zg78BvHqdYJWWBUzJIny7cUk4Q5b5SE4/view?usp=sharing) are required for users of Windows and Macintosh laptops prior to connecting to the Cancer Genome Collaboratory cloud instances.
 
 ## Please complete BEFORE arriving at the workshop.
 
