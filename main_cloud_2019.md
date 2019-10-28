@@ -20,7 +20,7 @@ Welcome to the Using Clouds for Big Cancer Data Analysis workshop.
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/cloud_2019_schedule). 
 
-Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1D142BGzw6PzKrV07G0Hhuz1DH4FZDnTB/view?usp=sharing)
+Meet your faculty [here](https://drive.google.com/a/bioinformatics.ca/file/d/1dKssFuC67tsBBUTWXfxdzNy1ZawE0hwN/view?usp=sharing)
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
