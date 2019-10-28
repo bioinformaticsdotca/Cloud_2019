@@ -18,7 +18,7 @@ It is in your best interest to complete these before the workshop.
 
 1) **UNIX Preparation tutorials**:  
 
-* [UNIX Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
+* [UNIX Bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof) - Please note that this server has been known to have errors. If the server is down, then focus on appreciating the UNIX commands given in the UNIX Cheat Sheet below.
 * [Unix Cheat sheet](http://www.rain.org/~mkummel/unix.html) 
 
 2) [Sequencing Terminology](http://www.ncbi.nlm.nih.gov/projects/genome/glossary.shtml)
