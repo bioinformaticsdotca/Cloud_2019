@@ -42,7 +42,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 [Lecture]() 
   
-[Hands-on Tutorial]()  
+[Hands-on Tutorial](https://docs.google.com/document/d/1uHJf6aERokPj5rpoHviOnzp2tfGaZRI27a-oSTc0IS8/edit?usp=sharing)  
 
 [Cloud Setup Steps](https://drive.google.com/a/bioinformatics.ca/file/d/1hiYxAjRXtA1-X4EvtzWTmUnNRst77Tka/view?usp=sharing)
 
