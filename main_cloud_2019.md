@@ -40,7 +40,7 @@ Pre-work including programs to install can be found [here](https://bioinformatic
 
 *<font color="#827e9c">Denis Yuen and Jared Baker</font>* 
 
-[Lecture]() 
+[Lecture](https://drive.google.com/a/bioinformatics.ca/file/d/1g4Ji71l7V6jyxO-obc9H4M8JbSmk1BKx/view?usp=sharing) 
   
 [Hands-on Tutorial](https://docs.google.com/document/d/1uHJf6aERokPj5rpoHviOnzp2tfGaZRI27a-oSTc0IS8/edit?usp=sharing)  
 
